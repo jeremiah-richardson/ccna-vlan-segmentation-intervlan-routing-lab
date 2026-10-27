@@ -1,4 +1,4 @@
-# CCNA Lab: VLAN Segmentation and Inter-VLAN Routing Lab
+# VLAN Segmentation and Inter-VLAN Routing Lab
 
 Configured three VLANs based on dept. using manual IPv4 subnetting, switchport access assignments, legacy inter-VLAN routing, and packet-level verification.
 
